@@ -1,0 +1,36 @@
+C:\Users\Biuro\AppData\Local\Temporary Projects\DoDo360\bin\Debug\DoDo360.exe.config
+C:\Users\Biuro\AppData\Local\Temporary Projects\DoDo360\bin\Debug\DoDo360.exe
+C:\Users\Biuro\AppData\Local\Temporary Projects\DoDo360\bin\Debug\DoDo360.pdb
+C:\Users\Biuro\AppData\Local\Temporary Projects\DoDo360\bin\Debug\DoDo360.xml
+C:\Users\Biuro\AppData\Local\Temporary Projects\DoDo360\obj\Debug\DoDo360.vbprojResolveAssemblyReference.cache
+C:\Users\Biuro\AppData\Local\Temporary Projects\DoDo360\obj\Debug\DoDo360.Form1.resources
+C:\Users\Biuro\AppData\Local\Temporary Projects\DoDo360\obj\Debug\DoDo360.Resources.resources
+C:\Users\Biuro\AppData\Local\Temporary Projects\DoDo360\obj\Debug\DoDo360.vbproj.GenerateResource.Cache
+C:\Users\Biuro\AppData\Local\Temporary Projects\DoDo360\obj\Debug\DoDo360.exe
+C:\Users\Biuro\AppData\Local\Temporary Projects\DoDo360\obj\Debug\DoDo360.xml
+C:\Users\Biuro\AppData\Local\Temporary Projects\DoDo360\obj\Debug\DoDo360.pdb
+C:\Users\Biuro\OneDrive\Projects\DoDo360\DoDo360\bin\Debug\DoDo360.exe.config
+C:\Users\Biuro\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.exe
+C:\Users\Biuro\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.xml
+C:\Users\Biuro\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.pdb
+C:\Users\Biuro\OneDrive\Projects\DoDo360\DoDo360\bin\Debug\DoDo360.exe
+C:\Users\Biuro\OneDrive\Projects\DoDo360\DoDo360\bin\Debug\DoDo360.pdb
+C:\Users\Biuro\OneDrive\Projects\DoDo360\DoDo360\bin\Debug\DoDo360.xml
+C:\Users\Biuro\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.Frm_360.resources
+C:\Users\Biuro\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.Resources.resources
+C:\Users\Biuro\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.vbproj.GenerateResource.Cache
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\bin\Debug\DoDo360.exe.config
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.exe
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.xml
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.pdb
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.Frm_360.resources
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.Resources.resources
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.vbproj.GenerateResource.Cache
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\bin\Debug\DoDo360.exe
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\bin\Debug\DoDo360.pdb
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\bin\Debug\DoDo360.xml
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.Dialog_Play.resources
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.Video.resources
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.vbprojResolveAssemblyReference.cache
+C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\obj\Debug\DoDo360.Frm_Edit.resources

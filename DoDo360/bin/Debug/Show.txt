@@ -1,0 +1,39 @@
+# T - Tittle
+# C - Control: L=local / "xxx.xxx.xxx.xxx:xxxx" = remote IP:Port
+# F - Executable file
+
+# Video (Width, Height, X)
+W = 2560
+H = 1440
+X = 1920
+
+[01T]Life For Speed
+[01F]C:\Gry\LFS\LFS.exe
+[01D]
+
+[02T]SUM
+[02F]C:\Users\Hydra\Videos\SUM.mp4
+[02D]
+
+[03T]City Under Attack
+[03F]C:\Gry\20190529 Dawid City\City Under Attack.exe
+[03D]
+
+[04T]Jet Pack
+[04F]D:\Filmy5D\nWave Pictures\JetPack Adventure\Jetpack_Adventure_Polish_L.mpg
+[04D]C:\Users\Hydra\OneDrive\Projects\DoDo360\DoDo360\bin\Debug\TestDMX.txt
+
+[05T]360 Dance
+[05F]CD:\Filmy360\360 z VR\8K 3D Dance.mpg
+[05D]
+
+[06T]Invasion
+[06F]D:\Filmy360\360 z VR\4K Invasion.mpg
+[06D]
+
+[07T]Sarang
+[07F]D:\Filmy360\360 z VR\4K Sarang.mp4
+[07D]
+
+
+{Sta}{Ide}{Deg}{Rsv}{BuA}{SmA}{BuB}{SmB}{BuC}{SmC}{BuD}{SmD}{BuE}{SmE}{BuF}{SmF}{W06}{W18}{W30}{Thd}{000}{001}{002}{003}{004}{005}{006}{007}{008}{009}{010}{011}{012}{013}{014}{015}{016}{017}{018}{019}{020}{021}{022}{023}{024}{025}{026}{027}{028}{029}{030}{031}{032}{033}{034}{035}{036}{037}{038}{039}{040}{041}{042}{043}{044}{045}{046}{047}{048}{049}
